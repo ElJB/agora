@@ -1,0 +1,22 @@
+{
+	"law": {
+		"_id" : 3,
+		"summary": "Ce texte vise à renforcer la lutte contre le terrorisme et à prendre en compte les évolutions récentes des actes de terrorisme.\n\nAfin d'éviter... [ce texte serait normalement bien plus long]",
+		"progression": ["depot", "assemblée"],
+		"party_opinions": [
+				{
+					"_id": 14,
+					"party": {"_id": 2, "name": "PS", "logo_url": "https://cdn.agora.fr/logos/PS.png", "color": "FF2222"},
+					"opinion": "positive",
+					"opinion_url" : "https://api.agora.fr/opinion/14"
+				},
+				{ 
+					"_id": 15,
+					"party": {"_id": 3, "name": "UMP", "logo_url": "https://cdn.agora.fr/logos/UMP.png", "color": "2222FF"},
+					"opinion": "conditional",
+					"opinion_url" : "https://api.agora.fr/opinion/15"
+				}
+			],
+		"vote_url" : "https://api.agora.fr/law/3/vote"
+	}
+}
