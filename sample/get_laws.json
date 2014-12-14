@@ -1,0 +1,21 @@
+{
+	"laws": [
+			{
+				"_id" : 3,
+				"last-update": "2014-12-14T18:34:26,261607680Z",
+				"title": "Lutte contre le terrorisme",
+				"summary": "Ce texte vise à renforcer la lutte contre le terrorisme et à prendre en compte les évolutions récentes des actes de terrorisme.\n\nAfin d'éviter... [ce texte serait normalement bien plus long]",
+				"progression": ["conseil-des-ministres_projet", "depot-au-parlement_projet", "examen_projet"],
+				"category" : {"_id": 2, "title": "Justice", "color": "FF2222" }
+			},
+			
+			{
+				"_id" : 4,
+				"last-update": "2014-12-13T21:54:27,261607680Z",
+				"title": "Amélioration du régime de la commune nouvelle",
+				"summary": "La proposition de loi vise à améliorer le dispositif de la commune nouvelle, instauré par la loi de réforme des collectivités territoriales du 16 décembre 2010.",
+				"progression": ["conseil-des-ministres_projet", "depot-au-parlement_projet", "examen_projet"],
+				"category" : {"_id": 5, "title": "Collectivités territoriales", "color": "22FF22" }
+			}
+		]
+}
