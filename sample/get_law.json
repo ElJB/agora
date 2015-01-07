@@ -5,7 +5,7 @@
 		"title": "Lutte contre le terrorisme",
 		"summary": "Ce texte vise à renforcer la lutte contre le terrorisme et à prendre en compte les évolutions récentes des actes de terrorisme.\n\nAfin d'éviter... [ce texte serait normalement bien plus long]",
 		"progression": ["conseil-des-ministres_projet", "depot-au-parlement_projet", "examen_projet"],
-		"category" : {"_id": 2, "title": "Justice", "color": "FF2222" }
+		"category" : {"_id": 2, "title": "Justice", "color": "FF2222" },
 		"party_opinions": [
 				{
 					"_id": 14,
